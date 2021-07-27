@@ -1,0 +1,71 @@
+
+
+{
+  "title": "The Little Black Dress Collection",
+  "BlackPartyDress": {
+    "title":"The Black Party Dress",
+    "description": "Whatever the occasion and whatever is your style, you can always count on a black party dress to make you the ‘its girl’ of the party.",
+    "image": "//i.imgur.com/k5CPPt0.png",
+    "link": "#"
+  },
+  "BlackOfficeDress": {
+    "title":"The Ultimate Office Attire",
+    "description": "Subtle yet significant. These “Wear to Work” dresses have staying power with stylish details. Let them take you to cocktail parties, business meetings and hundreds of client appointments.",
+    "image": "//i.imgur.com/lif6AqC.png",
+    "link": "#"
+  },
+
+  "BlackClassyDress": {
+    "title":"Classic Beauty Glam",
+    "description": "The Black Classy Dress collection is the epitome of class and beauty, its the class and sophistication every woman admires. Add timeless styles with feminine flair to your closet when you shop through our collection. With styles inspired by some of the most iconic looks from past decades. Styles range from fit-to-flare, A-Line V Neck, Mid-calve length, 3/4 sleeves and off the shoulder dresses.",
+    "image": "//i.imgur.com/g17WjQP.png",
+    "link":"#"
+  },
+
+  "Accesories":  {
+      "header":"Complimentary Accesories",
+      "title-1":"JIMMY CHOO",
+      "description-1": "Ade embellished suede ballet flats",
+      "image-1": "//i.imgur.com/KUNXcmf.png",
+      "link-1": "#",
+     
+      "title-2":"GUCCI",
+      "description-2": "Henley faux pearl hair tie.",
+      "image-2": "//i.imgur.com/4Bb3Kcq.png",
+      "link-2": "#",
+  
+      "title-3":"VERSACE",
+      "description-3": "Agnes small leather tote.",
+      "image-3": "//i.imgur.com/9GPqrFN.png",
+      "link-3": "#",
+    
+      "title-4":"VALENTINO",
+      "description-4": "Set of two gold-tone faux pearl necklace.",
+      "image-4": "//i.imgur.com/Rrr9AMK.png",
+      "link-4": "#"
+  },
+
+  "socialGiftCard":{
+    "image-facebook": "//i.imgur.com/wj6XvZC.png",
+    "image-instagram": "//i.imgur.com/N0aXWtv.png",
+    "title": "Shop Gift Cards",
+    "link":"#"
+  },  
+  
+  "LinksPrivacy": {
+    "customer": "CUSTOMER SERVICE",
+    "privacy": "PRIVACY",
+    "rewards": "REWARDS",
+    "description":"Prices, savings, and availability may vary. Additional restrictions may apply. Savings are not ensured. KAYAK does not sell tickets but provides a price comparison service. The deals in this newsletter were current at the time this email was published and subject to change based on date, time and availability, which may be extremely limited. KAYAK accepts no liability for inaccuracies arising from this or any other cause, including, but not limited to, expiration of deals and typographical error, we are not responsible for any loss, damages, or injury incurred by the deals herein. Unless otherwise specified, hotel prices are per night, based on double-occupancy rooms and do not include taxes and fees. Unless specified to be one-way (ow) or otherwise, flight prices are for round-trip (rt) economy class travel and include taxes and fees. If in doubt, always consult the agent or company supplying the tickets. Unless otherwise specified, package prices include flight + hotel, taxes and fees, but not baggage fees or other fees charged directly by the airline for the included flight. Cruise and car rental prices do not include taxes and fees. Please check the provider's webpage or contact the provider for additional details. ",
+    "customer-link":"#",
+    "privacy-link":"#",
+    "rewards-link":"#"
+  
+  }
+
+
+}
+
+
+
+

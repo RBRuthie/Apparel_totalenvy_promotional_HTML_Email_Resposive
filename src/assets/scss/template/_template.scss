@@ -1,0 +1,1068 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300;400&display=swap');
+// font-family: 'Lemonada', cursive;
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+// font-family: 'Italiana', serif;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+// 
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+// font-family: 'Oswald', sans-serif;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+// font-family: 'Playball', cursive;
+
+
+
+html,
+body,
+.body{
+  background: #e4e5ea;;
+  background-color: #e4e5ea;
+  margin-top: 20px;
+}
+
+
+//  headers 1-4
+
+.header-main-rows{
+    .header-1{
+      background: #fff;
+      background-color: #fff;
+        th{
+          font-family: 'Italiana', serif;
+          color: #030303;
+          font-size: 2rem;
+          font-weight: 600;
+          letter-spacing: .2rem;
+          text-align: center;
+          padding: 10px 0 5px 0 !important;
+        }
+    }
+
+    // menu navbar
+    .header-2{
+      background: #030303;
+      background-color: #030303;
+        .header-cont{
+          cursor: pointer;
+          padding: 10px 0 10px 37px !important;
+        }
+        a{
+          color: #fff !important;
+          font-size: .8rem;
+        }
+        .new-arr{
+          padding: 0 0 0 17px;
+        }
+    }
+
+    .header-4{
+      background: #E6CD76;
+      background-color: #E6CD76;
+        h5{
+          color: 030303;
+          font-size: 1.2rem;
+          margin: 8px 0 -12px 0;
+          font-weight: 900;
+          font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          text-align: center;
+        }
+    }
+}
+
+// titles
+.title-1 h1{
+  font-size: 1.2rem ;
+  font-weight: 500 ;
+  padding-top: 20px ;
+  font-family: 'Roboto', sans-serif ;
+
+  width: 100%; 
+  text-align: center; 
+  border-bottom: 1px solid #000; 
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+
+  span { 
+    background:#fff; 
+    padding:0 10px; 
+  }
+
+}
+
+
+.title-2 h1{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  padding-top: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+// party dress
+.party-dress-contain {
+  .party-dress-img{
+    width: 95%;
+    margin: -24px 0px 0 15px;
+  }
+  .party-dress-text{
+    position: absolute;
+    right: 0;
+    width: 350px;
+    height: 100px;
+    margin: -113px 0 0px 0;
+  }
+  h1{
+    font-weight: 400;
+    font-size: 2.2rem;
+    padding: 5px 40px 5px 0 !important;
+    text-justify: inter-word;
+    font-family: 'Playball', cursive !important;
+    text-decoration: underline ;
+  }
+  h6{
+    font-size: 1.3rem;
+  }
+  .party-btn{
+    background-color: #000;
+    color:#fff;
+    display: inline-block;
+    width: 96%;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #030303;
+    border-radius: 7px;
+    margin: 63px 0 30px 13px;
+    cursor: pointer;
+    }
+
+}
+
+// office dress
+  .office-dress-contain{
+    width: 100%;
+    .office-dress-img{
+      width: 95%;
+      margin: 0 0px 0 15px;
+    }
+
+    .office-dress-text{
+      width: 50%;
+      position: relative;
+      height: 100px;
+      margin: 0 0px -95px 17px;
+      display: block;
+    }
+
+    h1{
+      font-family: 'Playball', cursive !important;
+      font-weight: 500;
+      font-size: 3rem;
+      margin: 40px 0 10px 0 !important;
+      text-decoration: underline;
+    }
+    
+    h6{
+      width: 100%;
+      font-weight: 500;
+      font-size: 1.35rem;
+      text-align: justify;
+      letter-spacing: -1px;
+      word-spacing: -2px;
+    }
+    
+    .office-btn{
+    background-color: #000;
+    color:#fff;
+    display: inline-block;
+    width: 96%;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #030303;
+    border-radius: 7px;
+    margin: 15px 0 30px 13px;
+    cursor: pointer;
+    }
+
+}
+
+// classy dress
+  .classy-dress-contain{
+      width: 100%;
+
+    .classy-dress-img{
+      width: 55%;
+      margin: 0 0px 0 15px;
+    }
+
+    .text-center{
+      font-family: 'Playball', cursive !important;
+      font-weight: 500;
+      font-size: 3rem;
+      margin: 40px 0 6px 0 !important;
+      text-decoration: underline;
+    }
+
+    .classy-dress-text{
+      width: 37%;
+      position: relative;
+      height: 100px;
+      margin: 0 15px -97px 0px;
+      display: block;
+      float: right;
+    }
+    .classy-dress-text h6{
+      width: 100%;
+      font-weight: 500;
+      font-size: 1.35rem;
+      text-align: justify;
+      letter-spacing: -1px;
+      word-spacing: -2px;
+    }
+
+    .classy-btn{
+      background-color: #000;
+      color:#fff;
+      display: inline-block;
+      width: 96%;
+      text-align: center;
+      font-size: 2rem;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: 1px solid #030303;
+      border-radius: 7px;
+      margin: 15px 0 30px 13px;
+      cursor: pointer;
+    }
+
+}
+
+// complementary  accesories
+.accesories-contain{
+    // display: block;
+    width: 100%;
+    .text-center{
+      font-family: 'Playball', cursive !important;
+      font-weight: 500;
+      font-size: 3rem;
+      margin: 53px 0 35px 0;
+      text-decoration: underline;
+    }
+
+    // individual image
+    .jimmy-choo-img{
+      width: 100%;
+      height: 186px;
+      margin: 4px 0 0 0;
+      cursor: pointer;
+    }
+    .hair-tie-img{
+      height: 188px;
+      margin: 2px 0 0 0;
+      cursor: pointer;
+    }
+    .clutch-img{
+      height: 188px;
+      margin: 2px 0 0 0;
+      cursor: pointer;
+    }
+    .neck-lace-img{
+      height: 188px;
+      margin: 1px 0 0 0;
+      cursor: pointer;
+    }
+
+  // title
+    .jimmy{
+      font-size: .9rem;
+      font-weight: 600;
+      text-align: center;
+      margin: 15px 0 10px 0;
+    }
+    .gucci{
+      font-size: .9rem;
+      font-weight: 600;
+      text-align: center;
+      margin: 15px 0 0 0;
+    }
+    .versace,.valentino{
+      font-size: .9rem;
+      font-weight: 600;
+      text-align: center;
+      margin: 15px 0 0 0;
+    }
+
+    // accesorry description
+    .ade,.henley,.agnes,.pearl {
+      font-size: .7rem;
+    }
+
+    .accesories-contain .disclaimer-ops{
+      .customer{
+      background: #E6CD76 !important;
+      background-color: #E6CD76 !important;
+      text-align: center;
+      font-size: .5rem;
+      }
+  
+      .privacy h6{
+        font-family: 'Oswald', sans-serif !important;
+        font-size: .5rem !important;
+      }
+
+      .total_envy{
+        color: #0a07b8;
+      }
+
+      #the_end{
+        padding-bottom: 60px !important;
+      }
+
+    }
+
+    //  social media  -  privacy
+    .socialMedia-info{
+      background: #e4dbbd;
+      background-color: #e4dbbd;
+      margin-top: 60px;
+      margin-bottom: 0px;
+    }
+    .shop{
+      width: 100% !important;
+      font-size: 1.2rem !important;
+      font-weight: 700 !important;
+      padding: 28px 138px 0 12px !important;
+      cursor: pointer;
+    }
+    .facebook,.instagram{
+      margin: 11px 0 0 0;
+    }
+    .facebook{
+      padding: 0px 0 0px 12px;
+      cursor: pointer;
+    }
+    .instagram{
+      padding: 0px 0 3px 0;
+      margin: 11px 0 0 -99px;
+      cursor: pointer;
+    }
+    
+    // links
+    .links{
+      background: #dad8d8;
+      background-color: #dad8d8;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    .links a{
+      text-decoration: none;
+    }
+    .links h1{
+      font-size: .95rem !important;
+      font-weight: 700;
+      padding-top: 9px !important;
+    }
+
+    .customer{
+      margin: 17px 0 0 15px;
+    }
+    .privacy{
+      margin: 17px 0 0 85px;
+    }
+    .rewards{
+      margin: 17px 0 0 72px;
+    }
+    .links, .policy-text{
+      background: #dad8d8 !important;
+      background-color: #dad8d8 !important;
+    }
+    .policy-text{
+      // background: #dad8d8;
+      // background-color: #dad8d8;
+      padding: 10px !important;
+    }
+
+}
+
+
+
+
+        //  MEDIA QUEREIS
+
+@media screen and (max-width: 676px) and (min-width: 550px){
+
+           // dader - menu
+      .header-main-rows{
+        .header-2{
+            .header-cont{
+              margin: 0 0 0 80px;
+              cursor: pointer;
+              padding: 10px 0 10px 37px;
+            }
+            a{
+              color: #030303;
+              font-size: .8rem;
+            }
+            .new-arr{
+              padding: 10px 0 0 223px !important;
+            }
+            .brand{
+              padding: 0 0 0 204px !important;
+            }
+            .clothe{
+              padding: 0 0 0 198px !important;
+            }
+            .bags{
+              padding: 0 0 0 211px !important;
+            }
+            .shoes{
+              padding: 0 0 0 207px !important;
+            }
+        }
+      }
+            // party dress
+      .party-dress-contain h1{
+        font-weight: 400;
+        font-size: 2rem;
+        padding: 30px 6px 5px 0;
+      }
+      .party-dress-contain h6{
+        font-size: 1.3rem !important;
+        margin: 0 0 0 184px !important;
+        text-align: right !important;
+      }
+      // office dress
+      .office-dress-text h6 {
+        width: 99%;
+        font-size: 1.14rem
+      }
+
+      // classic dress
+      .classy-dress-text h6{
+      overflow: hidden;
+      font-size: 1.1rem !important;
+      }
+
+      // accesories
+      .accesories-contain .gucci {
+        font-size: 1rem;
+        font-weight: 600;
+        text-align: center;
+        margin: 15px 12px 0 0;
+      }
+      .accesories-contain .jimmy-choo-img {
+        width: 45% !important;
+        height: 186px !important;
+        margin: 24px 0px 0 147px !important;
+      }
+      .accesories-contain .hair-tie-img {
+        width: 45% !important;
+        height: 186px !important;
+        margin: 24px 0px 0 145px !important;
+      }
+      .accesories-contain .clutch-img{
+        width: 45% !important;
+        height: 186px !important;
+        margin: 24px 0px 0 145px !important;
+      }
+      .accesories-contain .neck-lace-img{
+        width: 45% !important;
+        height: 186px !important;
+        margin: 24px 0px 0 142px !important;
+      }
+
+      //  social media
+
+}
+
+
+@media screen and (max-width: 549px) and (min-width: 500px){
+
+      // dader - menu
+    .header-main-rows{
+    .header-2{
+        .header-cont{
+          margin: 0 0 0 80px;
+          cursor: pointer;
+          padding: 10px 0 10px 37px;
+        }
+        a{
+          color: #030303;
+          font-size: .8rem;
+        }
+        .new-arr{
+          padding: 10px 0 0 168px !important;
+        }
+        .brand{
+          padding: 0 0 0 150px !important;
+        }
+        .clothe{
+          padding: 0 0 0 141px !important;
+        }
+        .bags{
+          padding: 0 0 0 156px !important;
+        }
+        .shoes{
+          padding: 0 0 0 150px !important;
+        }
+    }
+    }
+
+    // party dress
+    .party-dress-contain h1{
+      font-weight: 400 !important;
+      font-size: 2rem !important;
+      // padding: 30px 6px 5px 0 !important;
+      margin: 29px -46px 0 0 !important;
+    }
+    .party-dress-contain h6{
+      font-size: 1rem !important;
+      margin: 0 0 0 152px !important;
+      text-align: right !important;
+    }
+    // office dress
+    .office-dress-text h6 {
+      width: 99% !important;
+      font-size: 1.14rem !important;
+    }
+
+    // classic dress
+    .classy-dress-text h6{
+    overflow: hidden;
+    font-size: 1.1rem !important;
+    }
+
+     // accesories
+    .accesories-contain .gucci {
+      font-size: 1rem;
+      font-weight: 600;
+      text-align: center;
+      margin: 15px 12px 0 0;
+      float: none;
+    }
+    .accesories-contain .jimmy-choo-img {
+      width: 45% !important;
+      height: 186px !important;
+      margin: 24px 0 0 117px !important;
+      float: none;
+    }
+    .accesories-contain .hair-tie-img {
+      width: 45% !important;
+      height: 186px !important;
+      margin: 24px 0 0 117px !important;
+      float: none;
+    }
+    .accesories-contain .clutch-img{
+      width: 45% !important;
+      height: 186px !important;
+      margin: 24px 0 0 117px !important;
+      float: none;
+    }
+    .accesories-contain .necklace-img{
+      width: 45% !important;
+      height: 186px !important;
+      margin: 24px 0 0 117px !important;
+      float: none;
+    }
+
+    // social media
+    .socialMedia-info .facebook{
+      margin: 28px 0 -47px !important;
+      padding: 0 0 0 111px !important;
+      float: none;
+    }
+    .socialMedia-info .instagram{
+      margin: 28px 0 -47px 0 !important;
+      padding: 0 0 0 -17px !important;
+      float: none;
+    }
+    .socialMedia-info .shop{
+      width: 100% !important;
+      font-size: 1.2rem !important;
+      font-weight: 700 !important;
+      padding: 0px 0px 0 12px !important;
+      margin: 18px 0 0 94px !important;
+      float: none;
+    }
+
+     // links
+    .links a{
+      padding: 23px 23px 0 0;
+    }
+    .links h1{
+      font-size: .95rem !important;
+      font-weight: 700;
+    }
+    .customer{
+      margin: 17px 0 -53px 15px !important;
+      padding: 54px 0 2px 120px !important;
+    }
+    .privacy{
+      margin: 0px 0 -66px 85px !important;
+      padding: 0 0 0 90px !important;
+    }
+    .rewards{
+      margin: 17px 0 -54px 72px !important;
+      padding: 0 0 0 96px !important;
+    }
+    .disclaimer-text{
+      background: #dad8d8;
+      background-color: #dad8d8;
+    }
+
+
+
+
+
+}
+
+@media screen and (max-width: 499px) and (min-width: 400px){
+      // dader - menu
+      .header-main-rows{
+        .header-2{
+            .header-cont{
+              margin: 0 0 0 80px;
+              cursor: pointer;
+              padding: 10px 0 10px 37px;
+            }
+            a{
+              color: #030303;
+              font-size: .8rem;
+            }
+            .new-arr{
+              padding: 10px 0 0 119px !important;
+            }
+            .brand{
+              padding: 0 0 0 103px !important;
+            }
+            .clothe{
+              padding: 0 0 0 97px !important;
+            }
+            .bags{
+              padding: 0 0 0 111px !important;
+            }
+            .shoes{
+              padding: 0 0 0 104px !important;
+            }
+        }
+      }
+
+      //img
+      .party-dress-img{
+        width: 95%;
+        margin: 0 0px 0 8px;
+      }
+
+      // party dress
+      .party-dress-contain h1{
+        font-weight: 400 !important;
+        font-size: 1.6rem !important;
+        margin: 39px -50px 5px 0 !important;
+      }
+      .party-dress-contain h6{
+        font-size: 1rem !important;
+        margin: -9px 0px 0 142px !important;
+        text-align: right !important;
+      }
+      .party-dress-contain .party-btn{
+        margin: 77px 0 0 7px !important;
+       }
+
+      // office dress
+      .office-dress-contain h1 {
+        font-size: 2.5rem !important;
+      }
+      .office-dress-text h6 {
+        width: 99% !important;
+        font-size: .9rem !important;
+      }
+      .office-dress-contain .office-btn{
+        margin: 77px 0 0 7px !important;
+      }
+
+      // classic dress
+      .classy-dress-contain .text-center {
+        font-size: 2.5rem !important;
+      }
+      .classy-dress-text h6{
+        overflow: hidden !important;
+        font-size: .91rem !important;
+        padding: 0 0 0 7px !important;
+      }
+      .classy-dress-contain .classy-btn{
+        margin: 77px 0 0 7px !important;
+      }
+     
+
+      // accesories
+      .accesories-contain{
+        .text-center{
+          font-size: 2.5rem !important;
+          margin: 54px 0 28px 0 !important;
+        }
+      }
+
+      .accesories-contain .gucci {
+        font-size: 1rem;
+        font-weight: 600;
+        text-align: center;
+        margin: 15px 12px 0 0;
+      }
+      .accesories-contain .jimmy-choo-img {
+        width: 45% !important;
+        height: 186px !important;
+        margin: 24px 0px 0 99px !important;
+      }
+      .accesories-contain .hair-tie-img {
+        width: 45% !important;
+        height: 186px !important;
+        margin: 24px 0px 0 99px !important;
+      }
+      .accesories-contain .clutch-img{
+        width: 45% !important;
+        height: 186px !important;
+        margin: 24px 0px 0 100px !important;
+      }
+      .accesories-contain .necklace-img{
+        width: 45% !important;
+        height: 173px !important;
+        margin: 24px 0px 0 102px !important;
+      }
+
+        // social media
+      .socialMedia-info .facebook{
+        margin: 28px 0 -47px !important;
+        padding: 0 0 0 92px !important;
+        float: none;
+      }
+      .socialMedia-info .instagram{
+        margin: 28px 0 -47px 0 !important;
+        padding: 0 0 0 -17px !important;
+        float: none;
+      }
+      .socialMedia-info .shop{
+        width: 100% !important;
+        font-size: 1.2rem !important;
+        font-weight: 700 !important;
+        padding: 0px 0px 0 12px !important;
+        margin: 42px 0 0 79px !important;
+        float: none;
+      }
+
+
+         // links
+      .accesories-contain, .links h1{
+        font-size: .5rem !important;
+        font-weight: 700 !important;
+      }
+      .customer{
+        margin:9px 0 -22px 91px !important;
+      }
+      .privacy{
+        margin: 12px 0 0px 131px !important;
+      }
+      .rewards{
+        margin: -7px 0 0px 125px !important;
+      }
+      .policy-text{
+        background: #dad8d8;
+        background-color: #dad8d8;
+        padding: 15px !important;
+      }
+
+
+
+
+}
+
+@media screen and (max-width: 399px) and (min-width: 300px){
+
+    // dader - menu
+    .header-main-rows{
+      .header-2 {
+          .header-cont{
+            margin: 0 0 0 80px;
+            cursor: pointer;
+            padding: 10px 0 10px 37px !important;
+          }
+       
+          a{
+            color: #030303;
+            font-size: .8rem;
+          }
+          .new-arr{
+            // padding: 10px 0 0 17px !important;
+            margin: 10px 0 0 87px !important;
+          }
+          .brand{
+            padding: 0 0 0 90px !important;
+          }
+          .clothe{
+            padding: 0 0 0 82px !important;
+          }
+          .bags{
+            padding: 0 0 0 97px !important;
+          }
+          .shoes{
+            padding: 0 0 0 93px !important;
+          }
+      }
+    }
+
+    // title
+    .title-1 h1{
+      font-size: 1rem;
+    }
+    .title-1 h2{
+      font-size: 1rem;
+    }
+    .title-2 h1{
+      font-size: 1.5rem;
+    }
+    
+    // party dress
+    .party-dress-contain .party-dress-img {
+      width: 94%;
+      margin: -24px 0px 0 11px;
+    }
+    .party-dress-contain h1{
+      font-weight: 400 !important;
+      font-size: 1.4rem !important;
+      margin: 48px -44px 5px 0 !important;
+    }
+    .party-dress-contain h6{
+      font-size: 1rem !important;
+      margin: -11px 0px 0 96px !important;
+      text-align: right !important;
+    }
+    .party-dress-contain .party-btn{
+      width: 94% !important;
+      font-size: 1.1rem !important;
+      padding: 6px 0 6px 0 !important;
+      margin: 79px 0 17px 10px !important;
+    }
+  
+    // office dress
+    .office-dress-contain .office-dress-img {
+      width: 94% !important;
+      margin: 0 0px 0 8px !important;
+    }
+    .office-dress-contain h1  {
+      font-size: 1.9rem !important;
+      margin: 30px 0 11px 0 !important;
+    }
+    .office-dress-text h6 {
+      width: 89% !important;
+      font-size: .8rem !important;
+    }
+    .office-dress-contain .office-btn{
+      width: 93% !important;
+      font-size: 1.1rem !important;
+      padding: 5px 0 5px 1px !important;
+    }
+
+     // classic dress
+    .classy-dress-text h6{
+      overflow: hidden !important;
+      font-size: .8rem !important;
+      padding: 0 0 0 10px !important;
+
+    }
+    .classy-dress-contain .classy-btn{
+      width: 93% !important;
+      font-size: 1.1rem !important;
+      padding: 5px 0 5px 1px !important;
+    }
+    .classy-dress-contain .text-center {
+      font-size: 2rem !important;
+    }
+
+    // accesories
+    .accesories-contain .text-center {
+      font-size: 2rem !important;
+    }
+    .accesories-contain .jimmy-choo-img {
+      width: 45% !important;
+      height: 186px !important;
+      margin: 24px 0px 0 87px !important;
+    }
+    .accesories-contain .hair-tie-img {
+      width: 45% !important;
+      height: 186px !important;
+      margin: 24px 0px 0 87px !important;
+    }
+    .accesories-contain .clutch-img{
+      width: 45% !important;
+      height: 186px !important;
+      margin: 24px 0px 0 87px !important;
+    }
+    .accesories-contain .necklace-img{
+      width: 45% !important;
+      height: 176px !important;
+      margin: 24px 0px 0 87px !important;
+    }
+
+
+    // social media
+    .socialMedia-info .facebook{
+      margin: 28px 0 -47px !important;
+      padding: 0 0 0 82px !important;
+      float: none;
+    }
+    .socialMedia-info .instagram{
+      margin: 28px 0 -47px 0 !important;
+      padding: 0 0 0 -17px !important;
+      float: none;
+    }
+    .socialMedia-info .shop{
+      width: 100% !important;
+      font-size: 1.2rem !important;
+      font-weight: 700 !important;
+      padding: 0px 0px 0 12px !important;
+      margin: 39px 0 0 66px !important;
+      float: none;
+    }
+
+     // links
+    .accesories-contain, .links h1{
+      font-size: .5rem !important;
+      font-weight: 700 !important;
+    }
+    .customer{
+       margin:9px 0 -22px 72px !important;
+    }
+    .privacy{
+      margin: 12px 0 0px 119px !important;
+    }
+    .rewards{
+     margin: -7px 0 0px 114px !important;
+    }
+    .policy-text{
+      background: #dad8d8;
+      background-color: #dad8d8;
+      padding: 15px !important;
+    }
+
+
+}
+
+@media screen and (max-width: 299px){
+  
+  // dader - menu
+    .header-main-rows{
+      .header-2{
+          .header-cont{
+            margin: 0 0 0 80px !important;
+            cursor: pointer;
+            padding: 10px 0 10px 17px !important;
+          }
+          a{
+            color: #fff !important;
+            font-size: .6rem !important;
+          }
+          .new-arr{
+            padding: 10px 0 0 0px !important;
+          }
+          .brand{
+            margin: 0 0 0 -23px !important;
+          }
+          .clothe{
+            margin: 0 0 0 -28px !important;
+          }
+          .bags{
+            margin: 0 0 0 -19px !important;
+          }
+          .shoes{
+            margin: 0 0 0 -23px !important;
+          }
+      }
+    }
+    
+    // title
+    .title-1 h1{
+      font-size: 1rem;
+    }
+    .title-1 h2{
+      font-size: 1rem;
+    }
+    .title-2 h1{
+      font-size: 1.5rem;
+    }
+    
+    // party dress
+    .party-dress-contain h1{
+      font-weight: 400;
+      font-size: 1rem;
+      padding: 67px 0 5px 0;
+    }
+    .party-dress-contain h6{
+      font-size: .7rem;
+      margin: 0 0px 0 77px;
+      text-align: right;
+    }
+    .party-dress-contain span{
+      width: 78% !important;
+      font-size: 1.2rem !important;
+      padding: 11px 0 11px 0 !important;
+      margin: 114px 0 17px 39px !important;
+    }
+  
+    // office dress
+    .office-dress-contain h1  {
+      font-size: 1.9rem;
+      margin: 30px 0 11px 0;
+    }
+    .office-dress-text h6 {
+      width: 96%;
+      font-size: .5rem;
+    }
+    .office-dress-contain span{
+      width: 93%;
+      font-size: 1.1rem;
+      padding: 5px 0 5px 1px;
+    }
+    
+    // classic dress
+    .classy-dress-text h6{
+      overflow: hidden;
+      font-size: .5rem !important;
+      padding: 0 0 0 10px;
+    }
+    .classy-dress-contain .text-center {
+      font-size: 2rem;
+    }
+    .classy-dress-contain .text-center {
+      font-size: 2rem;
+    }
+    .accesories-contain .text-center {
+      font-size: 2rem;
+    }
+    
+
+
+}
+
+
+
+
+
+
+
+// <style>
+// </style>
+
+// <div class="marquee">
+// <p>Scrolling text... </p>
+// </div>
