@@ -1,4 +1,16 @@
 
+"{{ root }}/assets/img/total-envy/classy-dress-1.png" 
+"{{ root }}/assets/img/total-envy/office-attire-1.png" 
+"{{ root }}/assets/img/total-envy/party-dress-1.png" 
+
+"{{ root }}/assets/img/total-envy/shoe-1.png" 
+"{{ root }}/assets/img/total-envy/hairtie-1.png" 
+"{{ root }}/assets/img/total-envy/clutch-1.png" 
+"{{ root }}/assets/img/total-envy/necklace-1.png" 
+
+"{{ root }}/assets/img/total-envy/facebook.png" 
+"{{ root }}/assets/img/total-envy/instagram.png" 
+
 
 
 {
