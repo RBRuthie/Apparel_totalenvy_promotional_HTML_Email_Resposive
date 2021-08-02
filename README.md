@@ -10,9 +10,9 @@
      <td>Bottom Section of Email</td>
   </tr>
   <tr>
-    <td><img src="src/assets/img/total-envy/envy-top.png" width=270 ></td>
-    <td><img src="src/assets/img/total-envy/envy-middle.png" width=270 ></td>
-    <td><img src="src/assets/img/total-envy/envy-bottom.png" width=270 ></td>
+    <td><img src="src/assets/img/total-envy/envy-top-600px.png" width=270 ></td>
+    <td><img src="src/assets/img/total-envy/envy-middle-600px.png" width=270 ></td>
+    <td><img src="src/assets/img/total-envy/envy-bottom-600px.png" width=270 ></td>
   </tr>
  </table>
 
