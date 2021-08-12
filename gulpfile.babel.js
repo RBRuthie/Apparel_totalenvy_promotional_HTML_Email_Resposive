@@ -187,7 +187,8 @@ function aws() {
     ? $.awspublish.create(CONFIG.aws)
     : $.awspublish.create();
   var headers = {
-    "Cache-Control": "max-age=315360000, no-transform, public"
+    "Cache-Control": "max-age=315360000, public",
+    // "Cache-Control": "max-age=315360000, no-transform, public"
   };
 
   return (
